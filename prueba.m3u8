@@ -4,7 +4,4 @@
 https://t2.zappingtv.com/tntsportshd/sport.smil/chunklist_live1_sles.m3u8?md5=aJ4etJaDJueuo7NRRd0vtQupKp0&expires=1636271304
 #EXT-X-STREAM-INF:BANDWIDTH=3628000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
 https://t2.zappingtv.com/tntsportshd/sport.smil/chunklist_live2_sles.m3u8?md5=aJ4etJaDJueuo7NRRd0vtQupKp0&expires=1636271304
-#EXT-X-STREAM-INF:BANDWIDTH=1628000,RESOLUTION=960x540,CODECS="avc1.64001f,mp4a.40.2"
-https://t2.zappingtv.com/tntsportshd/sport.smil/chunklist_live3_sles.m3u8?md5=aJ4etJaDJueuo7NRRd0vtQupKp0&expires=1636271304
-#EXT-X-STREAM-INF:BANDWIDTH=728000,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
-https://t2.zappingtv.com/tntsportshd/sport.smil/chunklist_live4_sles.m3u8?md5=aJ4etJaDJueuo7NRRd0vtQupKp0&expires=1636271304
+
