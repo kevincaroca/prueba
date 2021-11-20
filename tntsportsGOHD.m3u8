@@ -1,17 +1,62 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=545000,RESOLUTION=426x240,CODECS="avc1.77.30, mp4a.40.2"
-https://latam7-lh.akamaihd.net/i/OSC_CHI3@787396/index_240_av-p.m3u8?sd=10&rebase=on&id=AgC1SIV+vm6dBdgtiGHz8fVNyZbQiKKqn0HS6gKG8jZLfuvsPNYlSOJpEUynld27rU4Vcc+TSZFShg%3d%3d&hdntl=exp=1636336184~acl=%2f*~data=hdntl~hmac=5e4791882bda9e9769116b98f41e803c11639c856ef0b706486698dac1ed43ab
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=445000,RESOLUTION=426x240,CODECS="avc1.77.30, mp4a.40.2"
-https://latam7-lh.akamaihd.net/i/OSC_CHI3@787396/index_240_av-b.m3u8?sd=10&rebase=on&id=AgC1SIV+vm6dBdgtiGHz8fVNyZbQiKKqn0HS6gKG8jZLfuvsPNYlSOJpEUynld27rU4Vcc+TSZFShg%3d%3d&hdntl=exp=1636336184~acl=%2f*~data=hdntl~hmac=5e4791882bda9e9769116b98f41e803c11639c856ef0b706486698dac1ed43ab
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=945000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
-https://latam7-lh.akamaihd.net/i/OSC_CHI3@787396/index_360_av-p.m3u8?sd=10&rebase=on&id=AgC1SIV+vm6dBdgtiGHz8fVNyZbQiKKqn0HS6gKG8jZLfuvsPNYlSOJpEUynld27rU4Vcc+TSZFShg%3d%3d&hdntl=exp=1636336184~acl=%2f*~data=hdntl~hmac=5e4791882bda9e9769116b98f41e803c11639c856ef0b706486698dac1ed43ab
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=745000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
-https://latam7-lh.akamaihd.net/i/OSC_CHI3@787396/index_360_av-b.m3u8?sd=10&rebase=on&id=AgC1SIV+vm6dBdgtiGHz8fVNyZbQiKKqn0HS6gKG8jZLfuvsPNYlSOJpEUynld27rU4Vcc+TSZFShg%3d%3d&hdntl=exp=1636336184~acl=%2f*~data=hdntl~hmac=5e4791882bda9e9769116b98f41e803c11639c856ef0b706486698dac1ed43ab
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1296000,RESOLUTION=864x486,CODECS="avc1.77.30, mp4a.40.2"
-https://latam7-lh.akamaihd.net/i/OSC_CHI3@787396/index_480_av-p.m3u8?sd=10&rebase=on&id=AgC1SIV+vm6dBdgtiGHz8fVNyZbQiKKqn0HS6gKG8jZLfuvsPNYlSOJpEUynld27rU4Vcc+TSZFShg%3d%3d&hdntl=exp=1636336184~acl=%2f*~data=hdntl~hmac=5e4791882bda9e9769116b98f41e803c11639c856ef0b706486698dac1ed43ab
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1096000,RESOLUTION=864x486,CODECS="avc1.77.30, mp4a.40.2"
-https://latam7-lh.akamaihd.net/i/OSC_CHI3@787396/index_480_av-b.m3u8?sd=10&rebase=on&id=AgC1SIV+vm6dBdgtiGHz8fVNyZbQiKKqn0HS6gKG8jZLfuvsPNYlSOJpEUynld27rU4Vcc+TSZFShg%3d%3d&hdntl=exp=1636336184~acl=%2f*~data=hdntl~hmac=5e4791882bda9e9769116b98f41e803c11639c856ef0b706486698dac1ed43ab
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1928000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
-https://latam7-lh.akamaihd.net/i/OSC_CHI3@787396/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC1SIV+vm6dBdgtiGHz8fVNyZbQiKKqn0HS6gKG8jZLfuvsPNYlSOJpEUynld27rU4Vcc+TSZFShg%3d%3d&hdntl=exp=1636336184~acl=%2f*~data=hdntl~hmac=5e4791882bda9e9769116b98f41e803c11639c856ef0b706486698dac1ed43ab
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1627000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
-https://latam7-lh.akamaihd.net/i/OSC_CHI3@787396/index_720_av-b.m3u8?sd=10&rebase=on&id=AgC1SIV+vm6dBdgtiGHz8fVNyZbQiKKqn0HS6gKG8jZLfuvsPNYlSOJpEUynld27rU4Vcc+TSZFShg%3d%3d&hdntl=exp=1636336184~acl=%2f*~data=hdntl~hmac=5e4791882bda9e9769116b98f41e803c11639c856ef0b706486698dac1ed43ab
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-KEY:METHOD=AES-128,URI="https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/crypt-b.key?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089",IV=0xc4f467066ad26bd4714304894fa5aa45
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:163743263
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743263_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743264_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743265_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743266_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743267_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743268_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743269_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743270_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743271_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743272_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743273_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743274_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743275_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743276_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743277_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743278_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743279_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743280_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743281_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743282_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743283_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743284_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743285_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743286_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743287_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743288_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743289_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
+#EXTINF:10.000,
+https://latam7-lh.akamaihd.net/i/OSC_CHI2@787395/segment163743290_720_av-b.ts?sd=10&rebase=on&id=AgC1SIV+vm6dJGMpmWHb8eA%2fLR+5NDIFFhZucuib1EYXT%2fWh5df7cePK%2fmbLdBo6gckrMWxYbGgHkg%3d%3d&hdntl=exp=1637449155~acl=/*~data=hdntl~hmac=b95a833c3eee41e7cb8ec9b0b86d75b952251e8e11c6bd63880c47b4b1ece089
