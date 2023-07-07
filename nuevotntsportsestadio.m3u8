@@ -5,3 +5,5 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-64kbps",LANGUAGE="eng",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHARACTERISTICS="public.aac-audio",CHANNELS="1",URI="https://live-media-ctl.warnermediacdn.com/cmaf/live/2028104/34460-cenc/AUDIO_8_64000_eng.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=11188429,AVERAGE-BANDWIDTH=9303001,CODECS="mp4a.40.2,avc1.64002a",RESOLUTION=1920x1080,FRAME-RATE=59.94,AUDIO="aac-64kbps",CLOSED-CAPTIONS="cc"
 https://live-media-ctl.warnermediacdn.com/cmaf/live/2028104/34460-cenc/VIDEO_0_9064000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=79419,AVERAGE-BANDWIDTH=77908,CODECS="mp4a.40.2",AUDIO="aac-64kbps"
+https://live-media-ctl.warnermediacdn.com/cmaf/live/2028104/34460-cenc/AUDIO_8_64000_eng.m3u8
