@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="cc",LANGUAGE="eng",NAME="Closed Captions",DEFAULT=YES,AUTOSELECT=YES,INSTREAM-ID="CC1"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-64kbps",LANGUAGE="eng",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHARACTERISTICS="public.aac-audio",CHANNELS="1",URI="https://live-media-ctl.warnermediacdn.com/cmaf/live/2028102/estadiochile-cenc/widevine/AUDIO_7_128000_eng.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-64kbps",LANGUAGE="eng",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHARACTERISTICS="public.aac-audio",CHANNELS="1",URI="https://live-media-ctl.warnermediacdn.com/cmaf/live/2028102/estadiochile-cenc/AUDIO_7_128000_eng.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=6392347,AVERAGE-BANDWIDTH=5215801,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=1280x720,FRAME-RATE=29.97,AUDIO="aac-64kbps",CLOSED-CAPTIONS="cc"
-https://live-media-ctl.warnermediacdn.com/cmaf/live/2028102/estadiochile-cenc/widevine/VIDEO_6_328000.m3u8
+https://live-media-ctl.warnermediacdn.com/cmaf/live/2028102/estadiochile-cenc/VIDEO_6_328000.m3u8
